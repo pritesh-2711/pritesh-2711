@@ -28,6 +28,7 @@ I design systems that **fail safely, scale predictably, and can be reasoned abou
 | [PII Detection Unified Benchmarking](https://github.com/pritesh-2711/pii-bench) | Production-ready PII detection system. Dataset is made publicly available at huggingface  |
 | [python-performance-playbook](https://github.com/pritesh-2711/python-performance-playbook) | Async vs threading vs multiprocessing with benchmarks and real-world trade-offs |
 | [genai-from-poc-to-production](https://github.com/pritesh-2711/genai-poc-to-prod) | Designing systems beyond demos: chunking, retrieval quality, evaluation, and production constraints |
+| [mcp-tools-library](https://github.com/pritesh-2711/mcp-tools-library) | MCP server integrated with multiple tools to be used as plugins |
 | [neural-network-from-zero](https://github.com/pritesh-2711/neural-network-from-zero) | Manual forward/backward propagation, gradient flow, and optimization dynamics |
 | [transformers-from-scratch](https://github.com/pritesh-2711/build-transformers-from-scratch) | Attention mechanisms and transformer components without framework abstraction magic |
 | [ml-from-scratch](https://github.com/pritesh-2711/ml-from-scratch) | Core ML algorithms implemented from first principles to expose assumptions and failure modes |
