@@ -110,43 +110,6 @@ Large-scale benchmark dataset for PII detection and evaluation.
 
 ---
 
-# What I Work On
-
-## AI & ML Systems
-
-* Training & evaluation systems
-* Production AI architecture
-* Model serving infrastructure
-* GPU optimization
-* Distributed workloads
-
----
-
-
-## LLM & Agentic Systems
-
-* RAG pipelines
-* Retrieval evaluation
-* Hallucination reduction
-* Context engineering
-* Multi-agent orchestration
-* Tool-using systems
-* MCP integrations
-
----
-
-
-## Performance Engineering
-
-* Async systems
-* Multiprocessing & threading
-* GPU memory optimization
-* Throughput benchmarking
-* Backpressure & queue systems
-* CPU/GPU trade-off analysis
-
----
-
 
 # Engineering Principles I live by
 
