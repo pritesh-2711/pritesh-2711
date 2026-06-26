@@ -18,19 +18,6 @@ I build **production-grade AI systems** focused on:
 ---
 
 
-I care about systems that:
-
-* scale predictably
-* fail safely
-* are benchmarked rigorously
-* can be reasoned about under production constraints
-
-I do not optimize for hype.
-I optimize for correctness, observability, and real-world deployment.
-
----
-
-
 # Python Library (PyPI)
 
 
