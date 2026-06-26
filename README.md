@@ -101,20 +101,6 @@ Large-scale benchmark dataset for PII detection and evaluation.
 
 ---
 
-
-# Engineering Principles I live by
-
-* Correctness before cleverness
-* Benchmarks over opinions
-* Explicit trade-offs over hidden abstractions
-* Reliability over hype
-* Failure modes documented, not ignored
-* Systems designed for maintainability
-* Production constraints treated as first-class citizens
-
----
-
-
 # What You’ll Find Here
 
 ## You WILL find
