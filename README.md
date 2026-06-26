@@ -129,28 +129,6 @@ Large-scale benchmark dataset for PII detection and evaluation.
 ---
 
 
-# Why Follow This Profile
-
-This profile documents:
-
-* real engineering decisions
-* experiments that failed
-* trade-offs encountered in production
-* benchmark-driven development
-* systems thinking applied to AI
-
-Most repositories are built as:
-
-* exploration
-* implementation
-* evaluation
-* production-hardening
-
-instead of isolated demo projects.
-
----
-
-
 # Support My Work
 
 Open-source AI research and infrastructure experiments require significant compute, time, and engineering effort.
