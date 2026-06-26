@@ -1,6 +1,6 @@
 # Hi, I’m Pritesh Jha
 
-AI Engineer • Researcher • Systems Builder
+AI Engineer • Opensource Researcher • Enterprise Systems Builder
 
 #### Visit my website: [https://www.pritesh-jha.in/](https://www.pritesh-jha.in/)
 
