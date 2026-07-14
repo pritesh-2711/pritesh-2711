@@ -33,34 +33,6 @@ I build **production-grade AI systems** focused on:
 
 ---
 
-# What You’ll Find Here
-
-## You WILL find
-
-* Production-focused AI systems
-* Deep technical breakdowns
-* Benchmarking & evaluations
-* Trade-off discussions
-* Failure analysis
-* Scaling considerations
-* Research-backed implementations
-* System architecture notes
-
----
-
-
-## You will NOT find
-
-* AI hype projects
-* Copy-paste tutorials
-* “Build ChatGPT in 5 minutes”
-* Surface-level notebooks
-* Blind framework dependency
-* Unexplained abstractions
-
----
-
-
 # Support My Work
 
 Open-source AI research and infrastructure experiments require significant compute, time, and engineering effort.
